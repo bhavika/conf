@@ -42,4 +42,16 @@
 
 21. [Interactive multi-scale time series exploration with matplotlib] (http://pydata.org/dc2016/schedule/presentation/79/) | [[Code]] (https://github.com/tacaswell/interactive_mpl_tutorial)
 
-22. 
+22. [Forecasting critical food violations at restaurants using open data] (http://pydata.org/dc2016/schedule/presentation/35/) | [[Slides]] (http://www.slideshare.net/NicoleDonnelly6/pydatadc-forecasting-critical-food-violations-at-restaurants-using-open-data) | [[Code]] (https://github.com/nd1/DC_RestaurantViolationForecasting)
+
+23. [GraphGen: Conducting Graph Analytics over Relational Databases] (http://pydata.org/dc2016/schedule/presentation/57/) | [[Project]] (http://konstantinosx.github.io/graphgen-project/)
+
+24. [NoSQL doesn't mean No Schema] (http://pydata.org/dc2016/schedule/presentation/40/) | [[Slides]] (https://slott56.github.io/no-sql-doesnt-mean-no-schema/assets/player/KeynoteDHTMLPlayer.html#0)
+
+25. [Dask for ad-hoc distributed computing] (http://pydata.org/dc2016/schedule/presentation/48/) | [[Slides]] (http://matthewrocklin.com/slides/pydata-dc-2016#/)
+
+26. [Eat Your Vegetables - Data Security for Data Scientists] (http://pydata.org/dc2016/schedule/presentation/50/) | [[Slides]] (http://www.slideshare.net/WilliamVoorhees1/eat-your-vegetables-data-security-for-data-scientists)
+
+27. [Becoming a Data Scientist:Advice From My Podcast Guests] (http://pydata.org/dc2016/schedule/presentation/30/) | [[Slides]] (http://www.becomingadatascientist.com/wp-content/uploads/2016/10/Becoming-a-Data-Scientist-Advice-PyDataDC-shared.pdf)
+
+28. [Julia Tutorial] (http://pydata.org/dc2016/schedule/presentation/72/) | [[Code]] (https://github.com/cc7768/PyDataDC_julia) 
