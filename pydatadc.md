@@ -30,7 +30,7 @@
 
 15. [Variational Inference in Python] (http://pydata.org/dc2016/schedule/presentation/47/) | [[Slides]] (http://austinrochford.com/resources/talks/dydata-dc-2016-variational-python.slides.html#/) | [[Jupyter NB]] (https://nbviewer.jupyter.org/gist/AustinRochford/91cabfd2e1eecf9049774ce529ba4c16) | [[Code]] (https://gist.github.com/AustinRochford/910c506cebbec530328d4aa5c5c79cef)
 
-16. [Clustering: A Guide for the Perplexed] (http://pydata.org/dc2016/schedule/presentation/19/) | [[Code]] (https://github.com/scikit-learn-contrib/hdbscan)
+16. [Clustering: A Guide for the Perplexed] (http://pydata.org/dc2016/schedule/presentation/19/) | [[Slides]] (https://github.com/jc-healy/Presentations/blob/gh-pages/PyDataDC2016%20Clustering.pdf) [[Code]] (https://github.com/scikit-learn-contrib/hdbscan)
 
 17. [Logistic Regression: Behind The Scenes] (http://pydata.org/dc2016/schedule/presentation/37/) | [[Slides]] (http://www.slideshare.net/ChrisWhite249/logistic-regression-behind-the-scenes) 
 
