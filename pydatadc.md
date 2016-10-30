@@ -55,7 +55,7 @@
 27. [Becoming a Data Scientist:Advice From My Podcast Guests] (http://pydata.org/dc2016/schedule/presentation/30/) | [[Slides]] (http://www.becomingadatascientist.com/wp-content/uploads/2016/10/Becoming-a-Data-Scientist-Advice-PyDataDC-shared.pdf)
 
 
-## [YouTube]
+## YouTube
 
 Playlist with all 61 talks [here]. (https://www.youtube.com/playlist?list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
 
