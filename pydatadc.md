@@ -53,3 +53,10 @@
 26. [Eat Your Vegetables - Data Security for Data Scientists] (http://pydata.org/dc2016/schedule/presentation/50/) | [[Slides]] (http://www.slideshare.net/WilliamVoorhees1/eat-your-vegetables-data-security-for-data-scientists)
 
 27. [Becoming a Data Scientist:Advice From My Podcast Guests] (http://pydata.org/dc2016/schedule/presentation/30/) | [[Slides]] (http://www.becomingadatascientist.com/wp-content/uploads/2016/10/Becoming-a-Data-Scientist-Advice-PyDataDC-shared.pdf)
+
+
+## [YouTube]
+
+Playlist with all 61 talks [here]. (https://www.youtube.com/playlist?list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
+
+
