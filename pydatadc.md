@@ -57,6 +57,6 @@
 
 ## YouTube
 
-Playlist with all 61 talks [here]. (https://www.youtube.com/playlist?list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB)
+Playlist with all 61 talks [here] (https://www.youtube.com/playlist?list=PLGVZCDnMOq0qLoYpkeySVtfdbQg1A_GiB).
 
 
